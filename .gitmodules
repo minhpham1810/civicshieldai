@@ -1,0 +1,6 @@
+[submodule "civicshieldai-backend"]
+	path = civicshieldai-backend
+	url = https://github.com/minhpham1810/civicshieldai-backend.git
+[submodule "civicshieldai-frontend"]
+	path = civicshieldai-frontend
+	url = https://github.com/minhpham1810/civicshieldai-frontend.git
